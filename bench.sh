@@ -1,0 +1,1 @@
+/home/isucon/bench/bench.sh
