@@ -1,0 +1,3 @@
+/usr/sbin/mysqld, Version: 10.3.39-MariaDB-0ubuntu0.20.04.2-log (Ubuntu 20.04). started with:
+Tcp port: 0  Unix socket: /run/mysqld/mysqld.sock
+Time		    Id Command	Argument

@@ -1,0 +1,61 @@
+02:34:24.109167 ===> PREPARE
+02:34:29.711074 score: 0(0 - 0) : Score
+02:34:29.711089 deduction: 0 / timeout: 0
+02:34:29.711108 ===> LOAD
+02:34:32.711604 score: 1052(1052 - 0) : pass
+02:34:32.712303 deduction: 0 / timeout: 4
+02:34:34.712882 ユーザーは増えませんでした
+02:34:35.712538 score: 1125(1126 - 1) : pass
+02:34:35.713170 deduction: 0 / timeout: 11
+02:34:38.712110 score: 1261(1262 - 1) : pass
+02:34:38.712136 deduction: 0 / timeout: 17
+02:34:39.718287 ユーザーは増えませんでした
+02:34:41.713181 score: 1308(1310 - 2) : pass
+02:34:41.713431 deduction: 0 / timeout: 25
+02:34:44.714255 score: 1421(1424 - 3) : pass
+02:34:44.714649 deduction: 0 / timeout: 31
+02:34:44.718448 ユーザーは増えませんでした
+02:34:47.715434 score: 1421(1424 - 3) : pass
+02:34:47.715469 deduction: 0 / timeout: 39
+02:34:49.723470 ユーザーは増えませんでした
+02:34:50.719149 score: 1419(1424 - 5) : pass
+02:34:50.719412 deduction: 0 / timeout: 57
+02:34:53.721542 score: 1416(1424 - 8) : pass
+02:34:53.724106 deduction: 0 / timeout: 82
+02:34:54.725628 タイムアウト数が多いため、サービスの評判が悪くなりました。以降ユーザーは増加しません
+02:34:56.720178 score: 1414(1424 - 10) : pass
+02:34:56.720208 deduction: 0 / timeout: 106
+02:34:59.720595 score: 1412(1424 - 12) : pass
+02:34:59.721531 deduction: 0 / timeout: 127
+02:35:02.721591 score: 1410(1424 - 14) : pass
+02:35:02.735997 deduction: 0 / timeout: 148
+02:35:05.736750 score: 1407(1424 - 17) : pass
+02:35:05.737578 deduction: 0 / timeout: 170
+02:35:08.751213 score: 1405(1424 - 19) : pass
+02:35:08.751247 deduction: 0 / timeout: 193
+02:35:11.750671 score: 1403(1424 - 21) : pass
+02:35:11.750934 deduction: 0 / timeout: 214
+02:35:14.744754 score: 1401(1424 - 23) : pass
+02:35:14.744780 deduction: 0 / timeout: 236
+02:35:17.745352 score: 1399(1424 - 25) : pass
+02:35:17.747763 deduction: 0 / timeout: 258
+02:35:20.745587 score: 1396(1424 - 28) : pass
+02:35:20.745612 deduction: 0 / timeout: 280
+02:35:23.748205 score: 1394(1424 - 30) : pass
+02:35:23.748229 deduction: 0 / timeout: 303
+02:35:26.752988 score: 1392(1424 - 32) : pass
+02:35:26.753257 deduction: 0 / timeout: 324
+02:35:29.712791 SCORE: 00.StartBenchmark       : 1
+02:35:29.713220 SCORE: 01.GraphGood            : 0
+02:35:29.713290 SCORE: 02.GraphNormal          : 0
+02:35:29.713341 SCORE: 03.GraphBad             : 0
+02:35:29.713389 SCORE: 04.GraphWorst           : 10
+02:35:29.713454 SCORE: 05.TodayGraphGood       : 0
+02:35:29.713504 SCORE: 06.TodayGraphNormal     : 0
+02:35:29.713552 SCORE: 07.TodayGraphBad        : 0
+02:35:29.713599 SCORE: 08.TodayGraphWorst      : 11
+02:35:29.713646 SCORE: 09.ReadInfoCondition    : 13
+02:35:29.713694 SCORE: 10.ReadWarningCondition : 7
+02:35:29.713741 SCORE: 11.ReadCriticalCondition: 0
+02:35:29.724818 score: 1426(1460 - 34) : pass
+02:35:29.724980 deduction: 0 / timeout: 347
